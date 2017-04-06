@@ -9,8 +9,7 @@ public class ContactsListController {
         List<Contact> results = Database.query(
             'SELECT Id, FirstName, LastName, Title, Email, Birthdate, Fidelite__c ' +
             'FROM Contact ' +
-            'ORDER BY ' + sortOrder + ' ASC ' +
-            'LIMIT 10'
+            'ORDER BY ' + sortOrder + ' ASC '
         );
         return results;
     }
