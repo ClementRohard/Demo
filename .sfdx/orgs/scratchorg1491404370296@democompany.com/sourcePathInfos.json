@@ -32,14 +32,14 @@
     [
         "C:\\Users\\clement.rohard\\WorkSpace\\DemoSFDX\\Demo\\main\\default",
         {
-            "state": "u",
             "sourcePath": "C:\\Users\\clement.rohard\\WorkSpace\\DemoSFDX\\Demo\\main\\default",
             "isDirectory": true,
-            "isMetadataFile": false,
             "size": 0,
             "modifiedTime": 1491462873637,
             "changeTime": 1491462873637,
-            "contentHash": "96f57327f074874de8afa86496f0d29fb8dd5221"
+            "contentHash": "96f57327f074874de8afa86496f0d29fb8dd5221",
+            "isMetadataFile": false,
+            "state": "u"
         }
     ],
     [
@@ -80,8 +80,8 @@
             "isDirectory": false,
             "isMetadataFile": true,
             "size": 302,
-            "modifiedTime": 1491462873634,
-            "changeTime": 1491462873634,
+            "modifiedTime": 1491469790726,
+            "changeTime": 1491469790726,
             "contentHash": "80d0354b614f3cbffaa21e2b4b4c02d691d3ba2b"
         }
     ],
@@ -92,10 +92,10 @@
             "sourcePath": "C:\\Users\\clement.rohard\\WorkSpace\\DemoSFDX\\Demo\\main\\default\\pages\\ContactsListWithController.page",
             "isDirectory": false,
             "isMetadataFile": false,
-            "size": 1183,
-            "modifiedTime": 1491462873635,
-            "changeTime": 1491462873635,
-            "contentHash": "2f505ca4a85b620af4a313e6422334e4b65f2725"
+            "size": 1988,
+            "modifiedTime": 1491469790728,
+            "changeTime": 1491469790728,
+            "contentHash": "d5c4f4b19166fd253d7ef831b1a8743111357f44"
         }
     ],
     [
@@ -106,8 +106,8 @@
             "isDirectory": false,
             "isMetadataFile": true,
             "size": 174,
-            "modifiedTime": 1491462873639,
-            "changeTime": 1491462873639,
+            "modifiedTime": 1491469790730,
+            "changeTime": 1491469790730,
             "contentHash": "d3aef1962f612e7e3db36e965fa06b72bf50ee30"
         }
     ],
@@ -118,36 +118,36 @@
             "sourcePath": "C:\\Users\\clement.rohard\\WorkSpace\\DemoSFDX\\Demo\\main\\default\\classes\\ContactsListController.cls",
             "isDirectory": false,
             "isMetadataFile": false,
-            "size": 558,
-            "modifiedTime": 1491462873640,
-            "changeTime": 1491462873640,
-            "contentHash": "b491128e37e9c5099ee0f23b650d45cc1d7c3002"
+            "size": 833,
+            "modifiedTime": 1491469790732,
+            "changeTime": 1491469790732,
+            "contentHash": "d4323f89ab36623375e492d56cbbb32d329303ea"
         }
     ],
     [
         "C:\\Users\\clement.rohard\\WorkSpace\\DemoSFDX\\Demo\\main\\default\\pages",
         {
-            "state": "u",
             "sourcePath": "C:\\Users\\clement.rohard\\WorkSpace\\DemoSFDX\\Demo\\main\\default\\pages",
             "isDirectory": true,
-            "isMetadataFile": false,
             "size": 0,
             "modifiedTime": 1491462873635,
             "changeTime": 1491462873635,
-            "contentHash": "ebd2c0dfdaa79f043aff0ae911c0f5a237dad065"
+            "contentHash": "ebd2c0dfdaa79f043aff0ae911c0f5a237dad065",
+            "isMetadataFile": false,
+            "state": "u"
         }
     ],
     [
         "C:\\Users\\clement.rohard\\WorkSpace\\DemoSFDX\\Demo\\main\\default\\classes",
         {
-            "state": "u",
             "sourcePath": "C:\\Users\\clement.rohard\\WorkSpace\\DemoSFDX\\Demo\\main\\default\\classes",
             "isDirectory": true,
-            "isMetadataFile": false,
             "size": 0,
             "modifiedTime": 1491462873639,
             "changeTime": 1491462873639,
-            "contentHash": "3297c2d88bf3280da1496e0087155f9097351c04"
+            "contentHash": "3297c2d88bf3280da1496e0087155f9097351c04",
+            "isMetadataFile": false,
+            "state": "u"
         }
     ]
 ]

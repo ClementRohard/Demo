@@ -1,7 +1,9 @@
 public class ContactsListController {
 
     private String sortOrder = 'LastName';
+    private Contact contact;
     
+    //Génération de la liste
     public List<Contact> getContacts() {
         
         List<Contact> results = Database.query(
@@ -12,6 +14,15 @@ public class ContactsListController {
         );
         return results;
     }
+    public Contact getContact() {
+        if(contact == null) contact = new contact();
+        return contact;
+    }
+    //Ajout du contact dans la BDD
+    public void save(){
+        insert contact;
+    }
+        
     public void sortByLastName() {
         this.sortOrder = 'LastName';
     }
