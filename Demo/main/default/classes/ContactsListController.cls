@@ -7,7 +7,7 @@ public class ContactsListController {
     public List<Contact> getContacts() {
         
         List<Contact> results = Database.query(
-            'SELECT Id, FirstName, LastName, Title, Email, Birthdate ' +
+            'SELECT Id, FirstName, LastName, Title, Email, Birthdate, Fidelite__c ' +
             'FROM Contact ' +
             'ORDER BY ' + sortOrder + ' ASC ' +
             'LIMIT 10'

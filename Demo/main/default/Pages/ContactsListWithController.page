@@ -22,6 +22,7 @@
                 </apex:column>
                 <apex:column value="{! ct.Title }"/>              
                 <apex:column value="{! ct.Email }"/>
+                <apex:column value="{!ct.Fidelite__c}" />
                 <apex:column value="{!ct.Birthdate}"/>
                 
             </apex:pageBlockTable>
@@ -36,6 +37,7 @@
                 <apex:inputField id="contactLastName" value="{!contact.LastName}"/>
                 <apex:inputField id="contactTitle" value="{!contact.Title}"/>
                 <apex:inputField id="contactEmail" value="{!contact.Email}"/>
+                <apex:inputField value="{!contact.Fidelite__c}" />
             </apex:pageBlockSection>
        <apex:pageBlockButtons location="bottom">
            <apex:commandButton action="{!save}" value="Save"/>
