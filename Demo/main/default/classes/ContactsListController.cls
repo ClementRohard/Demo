@@ -7,7 +7,7 @@ public class ContactsListController {
     public List<Contact> getContacts() {
         
         List<Contact> results = Database.query(
-            'SELECT Id, FirstName, LastName, Title, Email ' +
+            'SELECT Id, FirstName, LastName, Title, Email, Birthdate ' +
             'FROM Contact ' +
             'ORDER BY ' + sortOrder + ' ASC ' +
             'LIMIT 10'
@@ -30,5 +30,4 @@ public class ContactsListController {
     public void sortByFirstName() {
         this.sortOrder = 'FirstName';
     }
-
 }
