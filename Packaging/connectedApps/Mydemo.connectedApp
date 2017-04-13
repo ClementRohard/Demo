@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ConnectedApp xmlns="http://soap.sforce.com/2006/04/metadata">
+    <contactEmail>clement.rohard@accenture.com</contactEmail>
+    <label>Mydemo</label>
+    <oauthConfig>
+        <callbackUrl>http://localhost:3000/oauthcallback.html</callbackUrl>
+        <consumerKey>3MVG9PE4xB9wtoY_Kc1U3N8PxfwTjdDL6vWCZxcBugsPEUMYVbQ.f63sWFjLkCrZGsaKrQbwRtNNGb98ixR.v</consumerKey>
+        <scopes>Full</scopes>
+    </oauthConfig>
+</ConnectedApp>

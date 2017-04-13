@@ -1,8 +1,8 @@
 [
     [
-        "C:\\Users\\clement.rohard\\WorkSpace\\DemoSFDX\\Demo",
+        "C:\\Users\\clement.rohard\\git\\Demo\\Demo",
         {
-            "sourcePath": "C:\\Users\\clement.rohard\\WorkSpace\\DemoSFDX\\Demo",
+            "sourcePath": "C:\\Users\\clement.rohard\\git\\Demo\\Demo",
             "isDirectory": true,
             "size": 0,
             "modifiedTime": 1491404175536,
@@ -15,9 +15,9 @@
         }
     ],
     [
-        "C:\\Users\\clement.rohard\\WorkSpace\\DemoSFDX\\Demo\\main",
+        "C:\\Users\\clement.rohard\\git\\Demo\\Demo\\main",
         {
-            "sourcePath": "C:\\Users\\clement.rohard\\WorkSpace\\DemoSFDX\\Demo\\main",
+            "sourcePath": "C:\\Users\\clement.rohard\\git\\Demo\\Demo\\main",
             "isDirectory": true,
             "size": 0,
             "modifiedTime": 1491404175536,
@@ -30,22 +30,22 @@
         }
     ],
     [
-        "C:\\Users\\clement.rohard\\WorkSpace\\DemoSFDX\\Demo\\main\\default",
+        "C:\\Users\\clement.rohard\\git\\Demo\\Demo\\main\\default",
         {
             "state": "u",
-            "sourcePath": "C:\\Users\\clement.rohard\\WorkSpace\\DemoSFDX\\Demo\\main\\default",
+            "sourcePath": "C:\\Users\\clement.rohard\\git\\Demo\\Demo\\main\\default",
             "isDirectory": true,
             "isMetadataFile": false,
             "size": 0,
-            "modifiedTime": 1491486999957,
-            "changeTime": 1491486999957,
-            "contentHash": "b51483765ad4d8fa14151b1608bab8988066f415"
+            "modifiedTime": 1492091566408,
+            "changeTime": 1492091566408,
+            "contentHash": "79b834060f5c60c076a3e2d5570e37a7bf830381"
         }
     ],
     [
-        "C:\\Users\\clement.rohard\\WorkSpace\\DemoSFDX",
+        "C:\\Users\\clement.rohard\\git\\Demo",
         {
-            "sourcePath": "C:\\Users\\clement.rohard\\WorkSpace\\DemoSFDX",
+            "sourcePath": "C:\\Users\\clement.rohard\\git\\Demo",
             "isDirectory": true,
             "size": 0,
             "modifiedTime": 1491463723841,
@@ -57,9 +57,9 @@
         }
     ],
     [
-        "C:\\Users\\clement.rohard\\WorkSpace\\DemoSFDX\\Demo\\main\\default\\pages\\ContactsListWithController.page-meta.xml",
+        "C:\\Users\\clement.rohard\\git\\Demo\\Demo\\main\\default\\pages\\ContactsListWithController.page-meta.xml",
         {
-            "sourcePath": "C:\\Users\\clement.rohard\\WorkSpace\\DemoSFDX\\Demo\\main\\default\\pages\\ContactsListWithController.page-meta.xml",
+            "sourcePath": "C:\\Users\\clement.rohard\\git\\Demo\\Demo\\main\\default\\pages\\ContactsListWithController.page-meta.xml",
             "isDirectory": false,
             "size": 302,
             "modifiedTime": 1491485046477,
@@ -70,9 +70,9 @@
         }
     ],
     [
-        "C:\\Users\\clement.rohard\\WorkSpace\\DemoSFDX\\Demo\\main\\default\\pages\\ContactsListWithController.page",
+        "C:\\Users\\clement.rohard\\git\\Demo\\Demo\\main\\default\\pages\\ContactsListWithController.page",
         {
-            "sourcePath": "C:\\Users\\clement.rohard\\WorkSpace\\DemoSFDX\\Demo\\main\\default\\pages\\ContactsListWithController.page",
+            "sourcePath": "C:\\Users\\clement.rohard\\git\\Demo\\Demo\\main\\default\\pages\\ContactsListWithController.page",
             "isDirectory": false,
             "size": 2303,
             "modifiedTime": 1491485046479,
@@ -83,9 +83,9 @@
         }
     ],
     [
-        "C:\\Users\\clement.rohard\\WorkSpace\\DemoSFDX\\Demo\\main\\default\\classes\\ContactsListController.cls-meta.xml",
+        "C:\\Users\\clement.rohard\\git\\Demo\\Demo\\main\\default\\classes\\ContactsListController.cls-meta.xml",
         {
-            "sourcePath": "C:\\Users\\clement.rohard\\WorkSpace\\DemoSFDX\\Demo\\main\\default\\classes\\ContactsListController.cls-meta.xml",
+            "sourcePath": "C:\\Users\\clement.rohard\\git\\Demo\\Demo\\main\\default\\classes\\ContactsListController.cls-meta.xml",
             "isDirectory": false,
             "size": 174,
             "modifiedTime": 1491485046482,
@@ -96,9 +96,9 @@
         }
     ],
     [
-        "C:\\Users\\clement.rohard\\WorkSpace\\DemoSFDX\\Demo\\main\\default\\classes\\ContactsListController.cls",
+        "C:\\Users\\clement.rohard\\git\\Demo\\Demo\\main\\default\\classes\\ContactsListController.cls",
         {
-            "sourcePath": "C:\\Users\\clement.rohard\\WorkSpace\\DemoSFDX\\Demo\\main\\default\\classes\\ContactsListController.cls",
+            "sourcePath": "C:\\Users\\clement.rohard\\git\\Demo\\Demo\\main\\default\\classes\\ContactsListController.cls",
             "isDirectory": false,
             "size": 831,
             "modifiedTime": 1491485046483,
@@ -109,9 +109,9 @@
         }
     ],
     [
-        "C:\\Users\\clement.rohard\\WorkSpace\\DemoSFDX\\Demo\\main\\default\\pages",
+        "C:\\Users\\clement.rohard\\git\\Demo\\Demo\\main\\default\\pages",
         {
-            "sourcePath": "C:\\Users\\clement.rohard\\WorkSpace\\DemoSFDX\\Demo\\main\\default\\pages",
+            "sourcePath": "C:\\Users\\clement.rohard\\git\\Demo\\Demo\\main\\default\\pages",
             "isDirectory": true,
             "size": 0,
             "modifiedTime": 1491474182239,
@@ -122,9 +122,9 @@
         }
     ],
     [
-        "C:\\Users\\clement.rohard\\WorkSpace\\DemoSFDX\\Demo\\main\\default\\classes",
+        "C:\\Users\\clement.rohard\\git\\Demo\\Demo\\main\\default\\classes",
         {
-            "sourcePath": "C:\\Users\\clement.rohard\\WorkSpace\\DemoSFDX\\Demo\\main\\default\\classes",
+            "sourcePath": "C:\\Users\\clement.rohard\\git\\Demo\\Demo\\main\\default\\classes",
             "isDirectory": true,
             "size": 0,
             "modifiedTime": 1491474182239,
@@ -135,9 +135,9 @@
         }
     ],
     [
-        "C:\\Users\\clement.rohard\\WorkSpace\\DemoSFDX\\Demo\\main\\default\\objects\\Contact.object-meta.xml",
+        "C:\\Users\\clement.rohard\\git\\Demo\\Demo\\main\\default\\objects\\Contact.object-meta.xml",
         {
-            "sourcePath": "C:\\Users\\clement.rohard\\WorkSpace\\DemoSFDX\\Demo\\main\\default\\objects\\Contact.object-meta.xml",
+            "sourcePath": "C:\\Users\\clement.rohard\\git\\Demo\\Demo\\main\\default\\objects\\Contact.object-meta.xml",
             "isDirectory": false,
             "size": 11564,
             "modifiedTime": 1491483077869,
@@ -148,9 +148,9 @@
         }
     ],
     [
-        "C:\\Users\\clement.rohard\\WorkSpace\\DemoSFDX\\Demo\\main\\default\\objects",
+        "C:\\Users\\clement.rohard\\git\\Demo\\Demo\\main\\default\\objects",
         {
-            "sourcePath": "C:\\Users\\clement.rohard\\WorkSpace\\DemoSFDX\\Demo\\main\\default\\objects",
+            "sourcePath": "C:\\Users\\clement.rohard\\git\\Demo\\Demo\\main\\default\\objects",
             "isDirectory": true,
             "size": 0,
             "modifiedTime": 1491483077869,
@@ -161,42 +161,68 @@
         }
     ],
     [
-        "C:\\Users\\clement.rohard\\WorkSpace\\DemoSFDX\\Demo\\main\\default\\triggers\\AddContact.trigger-meta.xml",
+        "C:\\Users\\clement.rohard\\git\\Demo\\Demo\\main\\default\\triggers",
         {
-            "state": "u",
-            "sourcePath": "C:\\Users\\clement.rohard\\WorkSpace\\DemoSFDX\\Demo\\main\\default\\triggers\\AddContact.trigger-meta.xml",
-            "isDirectory": false,
-            "isMetadataFile": true,
-            "size": 178,
-            "modifiedTime": 1491486999961,
-            "changeTime": 1491486999961,
-            "contentHash": "cc4783bd7bb88d6bcbcebf01869690edeaa89d5c"
-        }
-    ],
-    [
-        "C:\\Users\\clement.rohard\\WorkSpace\\DemoSFDX\\Demo\\main\\default\\triggers\\AddContact.trigger",
-        {
-            "state": "u",
-            "sourcePath": "C:\\Users\\clement.rohard\\WorkSpace\\DemoSFDX\\Demo\\main\\default\\triggers\\AddContact.trigger",
-            "isDirectory": false,
-            "isMetadataFile": false,
-            "size": 137,
-            "modifiedTime": 1491486999962,
-            "changeTime": 1491486999962,
-            "contentHash": "b9486571cde7309578bb95fef647837a8a3af422"
-        }
-    ],
-    [
-        "C:\\Users\\clement.rohard\\WorkSpace\\DemoSFDX\\Demo\\main\\default\\triggers",
-        {
-            "state": "u",
-            "sourcePath": "C:\\Users\\clement.rohard\\WorkSpace\\DemoSFDX\\Demo\\main\\default\\triggers",
+            "sourcePath": "C:\\Users\\clement.rohard\\git\\Demo\\Demo\\main\\default\\triggers",
             "isDirectory": true,
-            "isMetadataFile": false,
             "size": 0,
             "modifiedTime": 1491486999962,
             "changeTime": 1491486999962,
-            "contentHash": "e7fbe680c4d28a839744857623ccb01535291f8e"
+            "contentHash": "e7fbe680c4d28a839744857623ccb01535291f8e",
+            "isMetadataFile": false,
+            "state": "u"
+        }
+    ],
+    [
+        "C:\\Users\\clement.rohard\\git\\Demo\\Demo\\main\\default\\flexipages\\HomePage.flexipage-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "C:\\Users\\clement.rohard\\git\\Demo\\Demo\\main\\default\\flexipages\\HomePage.flexipage-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 787,
+            "modifiedTime": 1492091566406,
+            "changeTime": 1492091566406,
+            "contentHash": "2fa08efc7540473a28729103feb9e25ecfd661ad"
+        }
+    ],
+    [
+        "C:\\Users\\clement.rohard\\git\\Demo\\Demo\\main\\default\\connectedApps\\Mydemo.connectedApp-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "C:\\Users\\clement.rohard\\git\\Demo\\Demo\\main\\default\\connectedApps\\Mydemo.connectedApp-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 470,
+            "modifiedTime": 1492091566410,
+            "changeTime": 1492091566410,
+            "contentHash": "bc3c0acf58afcafd1e9a2a6cf9c6caca0fe4b553"
+        }
+    ],
+    [
+        "C:\\Users\\clement.rohard\\git\\Demo\\Demo\\main\\default\\flexipages",
+        {
+            "state": "u",
+            "sourcePath": "C:\\Users\\clement.rohard\\git\\Demo\\Demo\\main\\default\\flexipages",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 0,
+            "modifiedTime": 1492091566406,
+            "changeTime": 1492091566406,
+            "contentHash": "f720eb973ee871086fbf8f9381ddc9de415b5bd6"
+        }
+    ],
+    [
+        "C:\\Users\\clement.rohard\\git\\Demo\\Demo\\main\\default\\connectedApps",
+        {
+            "state": "u",
+            "sourcePath": "C:\\Users\\clement.rohard\\git\\Demo\\Demo\\main\\default\\connectedApps",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 0,
+            "modifiedTime": 1492091566410,
+            "changeTime": 1492091566410,
+            "contentHash": "55851bd8965e66e0fdffe06218786951c2714432"
         }
     ]
 ]
