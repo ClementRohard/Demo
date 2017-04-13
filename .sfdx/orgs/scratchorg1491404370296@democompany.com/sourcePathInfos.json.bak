@@ -32,14 +32,14 @@
     [
         "C:\\Users\\clement.rohard\\git\\Demo\\Demo\\main\\default",
         {
+            "state": "u",
             "sourcePath": "C:\\Users\\clement.rohard\\git\\Demo\\Demo\\main\\default",
             "isDirectory": true,
-            "size": 0,
-            "modifiedTime": 1491486999957,
-            "changeTime": 1491486999957,
-            "contentHash": "b51483765ad4d8fa14151b1608bab8988066f415",
             "isMetadataFile": false,
-            "state": "u"
+            "size": 0,
+            "modifiedTime": 1492091566408,
+            "changeTime": 1492091566408,
+            "contentHash": "79b834060f5c60c076a3e2d5570e37a7bf830381"
         }
     ],
     [
@@ -161,32 +161,6 @@
         }
     ],
     [
-        "C:\\Users\\clement.rohard\\git\\Demo\\Demo\\main\\default\\triggers\\AddContact.trigger-meta.xml",
-        {
-            "sourcePath": "C:\\Users\\clement.rohard\\git\\Demo\\Demo\\main\\default\\triggers\\AddContact.trigger-meta.xml",
-            "isDirectory": false,
-            "size": 178,
-            "modifiedTime": 1491486999961,
-            "changeTime": 1491486999961,
-            "contentHash": "cc4783bd7bb88d6bcbcebf01869690edeaa89d5c",
-            "isMetadataFile": true,
-            "state": "u"
-        }
-    ],
-    [
-        "C:\\Users\\clement.rohard\\git\\Demo\\Demo\\main\\default\\triggers\\AddContact.trigger",
-        {
-            "sourcePath": "C:\\Users\\clement.rohard\\git\\Demo\\Demo\\main\\default\\triggers\\AddContact.trigger",
-            "isDirectory": false,
-            "size": 137,
-            "modifiedTime": 1491486999962,
-            "changeTime": 1491486999962,
-            "contentHash": "b9486571cde7309578bb95fef647837a8a3af422",
-            "isMetadataFile": false,
-            "state": "u"
-        }
-    ],
-    [
         "C:\\Users\\clement.rohard\\git\\Demo\\Demo\\main\\default\\triggers",
         {
             "sourcePath": "C:\\Users\\clement.rohard\\git\\Demo\\Demo\\main\\default\\triggers",
@@ -197,6 +171,58 @@
             "contentHash": "e7fbe680c4d28a839744857623ccb01535291f8e",
             "isMetadataFile": false,
             "state": "u"
+        }
+    ],
+    [
+        "C:\\Users\\clement.rohard\\git\\Demo\\Demo\\main\\default\\flexipages\\HomePage.flexipage-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "C:\\Users\\clement.rohard\\git\\Demo\\Demo\\main\\default\\flexipages\\HomePage.flexipage-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 787,
+            "modifiedTime": 1492091566406,
+            "changeTime": 1492091566406,
+            "contentHash": "2fa08efc7540473a28729103feb9e25ecfd661ad"
+        }
+    ],
+    [
+        "C:\\Users\\clement.rohard\\git\\Demo\\Demo\\main\\default\\connectedApps\\Mydemo.connectedApp-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "C:\\Users\\clement.rohard\\git\\Demo\\Demo\\main\\default\\connectedApps\\Mydemo.connectedApp-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 470,
+            "modifiedTime": 1492091566410,
+            "changeTime": 1492091566410,
+            "contentHash": "bc3c0acf58afcafd1e9a2a6cf9c6caca0fe4b553"
+        }
+    ],
+    [
+        "C:\\Users\\clement.rohard\\git\\Demo\\Demo\\main\\default\\flexipages",
+        {
+            "state": "u",
+            "sourcePath": "C:\\Users\\clement.rohard\\git\\Demo\\Demo\\main\\default\\flexipages",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 0,
+            "modifiedTime": 1492091566406,
+            "changeTime": 1492091566406,
+            "contentHash": "f720eb973ee871086fbf8f9381ddc9de415b5bd6"
+        }
+    ],
+    [
+        "C:\\Users\\clement.rohard\\git\\Demo\\Demo\\main\\default\\connectedApps",
+        {
+            "state": "u",
+            "sourcePath": "C:\\Users\\clement.rohard\\git\\Demo\\Demo\\main\\default\\connectedApps",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 0,
+            "modifiedTime": 1492091566410,
+            "changeTime": 1492091566410,
+            "contentHash": "55851bd8965e66e0fdffe06218786951c2714432"
         }
     ]
 ]
