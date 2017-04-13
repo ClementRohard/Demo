@@ -24,7 +24,7 @@
        password="${sf.password}" 
        serverurl="${sf.serverurl}" 
        maxPoll="${sf.maxPoll}" 
-       deployRoot="./Demo/main/default/" test
+       deployRoot="./Demo/main/default/"
        checkOnly="true"/>
      
      </target>
