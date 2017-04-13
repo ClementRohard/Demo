@@ -25,7 +25,7 @@
        serverurl="${sf.serverurl}" 
        maxPoll="${sf.maxPoll}" 
        deployRoot="./Demo/main/default/"
-       checkOnly="true"/>
+       checkOnly="false"/>
      
      </target>
 	
