@@ -15,10 +15,6 @@
         }
     ],
     "env": {
-        "SFDX_DEV_HUB_AUTH_URL": {
-            "description": "Required to provision orgs for Review apps and Heroku CI",
-            "required": true
-        },
         "SFDX_AUTH_URL": {
             "description": "Required to connect orgs for staging and production apps",
             "required": true
